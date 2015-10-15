@@ -11,7 +11,7 @@ import bs4
 import csv
 from datetime import timedelta, date
 
-start_date = date(2010,1,1)
+start_date = date(2011,1,1)
 end_date = date(2015,12,31)
 
 def daterange(start_date, end_date, step=1):
